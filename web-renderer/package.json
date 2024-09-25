@@ -95,6 +95,7 @@
     "@types/react-dom": "^18.2.17",
     "@types/react-router-dom": "^5.3.3",
     "@vitejs/plugin-react": "^4.2.1",
+    "@vitejs/plugin-legacy": "5.4.2",
     "nx": "^17.2.8",
     "rollup": "^4.9.4",
     "typescript": "^5.2.2",

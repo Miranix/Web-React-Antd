@@ -82,7 +82,6 @@
     "eslint-plugin-react-refresh": "^0.4.5",
     "vite": "^5.0.8",
     "antd": "^5.12.6",
-    "electron-builder": "^24.9.1",
     "less": "^4.2.0",
     "lodash": "^4.17.21",
     "react-router": "^6.21.1",
